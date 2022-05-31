@@ -1,1 +1,1 @@
-Type of file name
+Creating a symbol link
