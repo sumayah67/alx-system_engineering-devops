@@ -1,1 +1,1 @@
-List all file in the current and parent directory
+Type of file name
