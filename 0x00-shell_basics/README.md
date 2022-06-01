@@ -1,1 +1,1 @@
-Move all files beginning with an uppercase letter to the directory
+Creating a script that deletes all files in the current working directory
