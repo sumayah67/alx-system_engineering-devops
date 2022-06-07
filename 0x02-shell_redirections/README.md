@@ -1,1 +1,1 @@
-Write a shell script that creates a file
+Write a script that writes into a file
