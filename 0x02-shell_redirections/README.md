@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta.
+Display the content of the /etc/passwd file.
