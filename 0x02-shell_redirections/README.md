@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files
+Write a shell script that creates a file name
