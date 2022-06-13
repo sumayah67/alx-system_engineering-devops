@@ -1,0 +1,3 @@
+#!/bin/bash
+printf "%s\n" "128"
+printf \"%s\n" "$(($TRUEKNOWLEDGE+128))\"
